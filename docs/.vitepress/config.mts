@@ -90,7 +90,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/roadmap/edit/main/docs/:path',
+      pattern: 'https://github.com/ahmet-furkan234/roadmap/edit/main/docs/:path',
       text: 'Bu sayfayı düzenle',
     },
   },
