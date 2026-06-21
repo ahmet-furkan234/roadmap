@@ -97,4 +97,12 @@ O yüzden şu an hangi dili seçtiğin, zannettiğin kadar kritik değil. Öneml
 
 > Dil öğrenmek kelime ezberlemek değildir. Düşünme biçimini kazanmaktır. Programlama da öyle — syntax değil, problemleri dile döküp çözme alışkanlığı.
 
+---
+
+## 📚 Kaynaklar
+
+- [Yazılım Bilimi — Sıfırdan Yazılım Öğrenme Serisi](https://www.youtube.com/watch?v=nxkRb_I33_A) — "Nasıl başlarım?" sorusuna direkt cevap veren Türkçe video serisi. Bu bölümle birlikte izle.
+- [BTK Akademi — Algoritma Programlama ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565) — Programlamanın mantığını dil bağımsız öğreten ücretsiz Türkçe kurs.
+- [Patika.dev](https://www.patika.dev/) — Hangi dili öğreneceğine karar verdikten sonra buradan ilgili öğrenme yoluna gir.
+
 **Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./06-degiskenler)

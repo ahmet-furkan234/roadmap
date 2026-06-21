@@ -125,4 +125,11 @@ Bilgisayarını bir yazılımcı gibi keşfet:
 
 > Yazılımcı olmak bir kullanıcıdan farklı düşünmek demektir. Kullanıcı "program çalıştı" der. Yazılımcı "hangi dosyadan yüklendi, RAM'de ne kadar yer tuttu, ne zaman kapandı?" diye sorar.
 
+---
+
+## 📚 Kaynaklar
+
+- [BTK Akademi — Bilişim Teknolojileri Temelleri](https://www.btkakademi.gov.tr/) — BTK Akademi'ye gir, arama kutusuna "bilgisayar temelleri" yaz. Ücretsiz, Türkçe, sertifikalı kurslar çıkacak.
+- [Yakın Kampüs](https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA) — 1000'den fazla ücretsiz Türkçe eğitim videosu. İşletim sistemi ve temel bilgisayar konularını kapsamlı şekilde anlatan içerikler var.
+
 **Bir sonraki adım:** [İnternet ve Web →](./04-internet-ve-web)

@@ -133,4 +133,12 @@ Bu soruyu adım adım kağıda çözmek — koşulları yazmak, hesabı yapmak, 
 
 > Bu üç beceri olmadan en iyi dili, en iyi kursu, en pahalı bootcamp'i alsan da bir yere varamazsın. Ama bu üçü varsa — hangi dili öğrendiğin çok da fark etmez.
 
+---
+
+## 📚 Kaynaklar
+
+- [Patika.dev](https://www.patika.dev/) — Türkiye'nin en büyük ücretsiz yazılım eğitim platformu. Başlangıç için yapılandırılmış öğrenme yolları sunuyor.
+- [BTK Akademi](https://www.btkakademi.gov.tr/) — Devlet destekli, tamamen ücretsiz teknoloji eğitimleri. Sertifika da veriyor.
+- [Yazılım Bilimi](https://www.youtube.com/@YazilimBilimiAnkara) — Sıfırdan yazılım öğrenmek için Türkçe YouTube kanalı. "Sıfırdan Yazılım Öğrenme Serisi" ile başla.
+
 **Bir sonraki adım:** [Nasıl Çalışmalısın? →](./02-calisma-yontemi)

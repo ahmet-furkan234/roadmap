@@ -20,6 +20,7 @@ export default defineConfig({
         items: [
           { text: 'Neden Yazılım?', link: '/bolumler/01-baslangic' },
           { text: 'Nasıl Çalışmalısın?', link: '/bolumler/02-calisma-yontemi' },
+          { text: 'Vibe Coding Nedir?', link: '/bolumler/vibe-coding' },
         ],
       },
       {
@@ -29,6 +30,10 @@ export default defineConfig({
           { text: 'Bilgisayarını Tanı', link: '/bolumler/03-bilgisayar-temelleri' },
           { text: 'İnternet ve Web', link: '/bolumler/04-internet-ve-web' },
           { text: 'Programlama Nedir?', link: '/bolumler/05-programlama-nedir' },
+          { text: 'Yazılım Dilleri', link: '/bolumler/06-yazilim-dilleri' },
+          { text: 'Hangi Alanda İlerlemeliyim?', link: '/bolumler/07-alanlar' },
+          { text: 'Algoritmalar Nedir?', link: '/bolumler/08-algoritmalar-nedir' },
+          { text: 'Hangi Dili Seçmeliyim?', link: '/bolumler/09-hangi-dil' },
         ],
       },
       {
@@ -66,6 +71,15 @@ export default defineConfig({
           { text: 'Backend Nedir?', link: '/bolumler/16-backend-nedir' },
           { text: 'API Nedir?', link: '/bolumler/17-api' },
           { text: 'Veritabanı Temelleri', link: '/bolumler/18-veritabani' },
+        ],
+      },
+      {
+        text: '📚 Kaynaklar',
+        collapsed: false,
+        items: [
+          { text: 'Roadmap.sh', link: '/bolumler/kaynaklar-roadmap-sh' },
+          { text: 'BTK Akademi', link: '/bolumler/kaynaklar-btk-akademi' },
+          { text: 'YouTube Kanalları', link: '/bolumler/kaynaklar-youtube' },
         ],
       },
       {
