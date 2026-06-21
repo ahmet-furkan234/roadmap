@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Yazılım Yolculuğu',
   description: 'Sıfırdan yazılımcı olmak için kapsamlı rehber',
   lang: 'tr-TR',
+  base: '/roadmap/',
   lastUpdated: true,
 
   themeConfig: {
