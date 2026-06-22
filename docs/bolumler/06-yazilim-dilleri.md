@@ -138,4 +138,4 @@ Başlangıç için Python veya JavaScript seç. Birini iyi öğren. Gerisini zam
 - [Patika.dev](https://www.patika.dev/) — Her dil için ayrı öğrenme yolu var. Dili seçip yola gir.
 - [Yazılım Bilimi](https://www.youtube.com/@YazilimBilimiAnkara) — JavaScript, Python, Java için Türkçe YouTube içerikleri.
 
-**Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./07-degiskenler)
+**Bir sonraki adım:** [Hangi Alanda İlerlemeliyim? →](./07-alanlar)

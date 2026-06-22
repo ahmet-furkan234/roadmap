@@ -128,4 +128,4 @@ Temel mantık yeterlidir: "eğer... ise", "her biri için", "tekrar et". Bu üç
 - [BTK Akademi — Algoritma Programlama ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565) — Algoritma mantığını sıfırdan öğreten ücretsiz Türkçe kurs.
 - [Yazılım Bilimi](https://www.youtube.com/@YazilimBilimiAnkara) — Algoritma ve veri yapılarını Türkçe anlatan video serisi.
 
-**Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./09-degiskenler)
+**Bir sonraki adım:** [Hangi Dili Seçmeliyim? →](./09-hangi-dil)

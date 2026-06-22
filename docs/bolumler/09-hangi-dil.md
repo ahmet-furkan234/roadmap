@@ -115,4 +115,4 @@ Hiçbir şey olmaz. Öğrendiğin dilde kazandığın mantık, problem çözme b
 
 > Dil bir araçtır. Marangoz hangi tornavidayı kullanacağına saatlerce kafa yormaz — en uygununu alır ve işe başlar. Seç ve başla. Değiştirebilirsin.
 
-**Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./10-degiskenler)
+**Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./06-degiskenler)

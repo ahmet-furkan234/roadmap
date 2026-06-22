@@ -221,4 +221,4 @@ Kendine şu soruları sor:
 
 > Şu an net bir cevabın olmayabilir — bu normal. Roadmap'i ilerledikçe hangisinin seni daha çok çektiğini fark edeceksin. Önemli olan temeli atmak. Alan seçimi sonra gelir.
 
-**Bir sonraki adım:** [Değişkenler ve Veri Tipleri →](./08-degiskenler)
+**Bir sonraki adım:** [Algoritmalar Nedir? →](./08-algoritmalar-nedir)
